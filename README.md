@@ -38,4 +38,5 @@ In order to be able to host the new Aus3D Magnetic Encoder modules, four I2C hea
 ## License
 RUMBA+ is fully open source, and may be freely modified or changed by anyone, provided they maintain the license it is released under. The design is free to use for any purpose, including commercial uses. RUMBA+ maintains the GPLv2 license of the original RUMBA board. For more information on this license, please see the included license file.
 
-
+## Design Images
+![RUMBA+ Schematic](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Schematic.png "RUMBA+ Schematic")
