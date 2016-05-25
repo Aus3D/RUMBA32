@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RUMBA_plus.PrjPCB]
+   Generated File[RUMBA_plus.TXT]
+   Generated File[RUMBA_plus.LDP]
+   Generated File[RUMBA_plus.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:58:46 PM On 5/25/2016
