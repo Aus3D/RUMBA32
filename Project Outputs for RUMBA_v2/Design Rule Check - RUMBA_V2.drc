@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Chris\Documents\Git\RUMBA-Plus\RUMBA_V2.PcbDoc
-Date     : 5/24/2016
-Time     : 4:23:34 PM
+Date     : 5/25/2016
+Time     : 4:56:48 PM
 
 Processing Rule : Width Constraint (Min=0.1mm) (Max=3mm) (Preferred=0.2mm) (All)
 Rule Violations :0
@@ -38,4 +38,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:05
+Time Elapsed        : 00:00:03
