@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [RUMBA_v2.PrjPCB]
+   Generated File[Pick Place for RUMBA_V2.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:11:50 PM On 5/25/2016
