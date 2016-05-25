@@ -4,6 +4,7 @@ RUMBA+ is an updated version of the RUMBA 3D Printer control board, originally d
 
 The RUMBA+ update is designed to address several shortcomings with the original design, and improve on the otherwise solid framework it presents. More information on RUMBA is available on the RepRapWiki page [here](http://reprap.org/wiki/RUMBA).
 
+In keeping with the original RUMBA design, RUMBA+ is fully open source.
 ## Image
 ![RUMBA+ PCB Preview](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/BoardPreviewTop.png "RUMBA+ PCB Preview")
 
@@ -33,4 +34,8 @@ In order to be able to host the new Aus3D Magnetic Encoder modules, four I2C hea
 * Thermistor connectors changed from 1x10 to 2x5 header to be more compact.
 * Labels on thermistors and endstops adjusted.
 * Schematic updated for readability, full bill-of-materials made available
+
+## License
+RUMBA+ is fully open source, and may be freely modified or changed by anyone, provided they maintain the license it is released under. The design is free to use for any purpose, including commercial uses. RUMBA+ maintains the GPLv2 license of the original RUMBA board. For more information on this license, please see the included license file.
+
 
