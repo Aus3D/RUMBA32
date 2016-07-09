@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for RUMBA_plus
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -162,135 +162,63 @@ DocumentPath=Project Outputs for RUMBA_plus\Design Rule Check - RUMBA_plus.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for RUMBA_v2\Design Rule Check - RUMBA_V2.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for RUMBA_plus\Pick Place for RUMBA_plus.csv
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for RUMBA_v2\Pick Place for RUMBA_V2.csv
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.REP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for RUMBA_v2\RUMBA_V2.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -340,7 +268,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for RUMBA_plus
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
