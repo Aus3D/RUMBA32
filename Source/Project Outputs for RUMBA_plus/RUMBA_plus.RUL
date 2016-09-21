@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Chris\Documents\Git\RUMBA-Plus\RUMBA_plus.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Chris\Documents\Git\RUMBA-Plus\Source\RUMBA_plus.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

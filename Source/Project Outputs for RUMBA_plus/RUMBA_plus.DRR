@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: RUMBA_plus.PcbDoc   5/25/2016  5:58:46 PM
+NCDrill File Report For: RUMBA_plus.PcbDoc   9/21/2016  9:36:22 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,16 +8,15 @@ ASCII RoundHoles File : RUMBA_plus.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      0.3mm (12mil)                                             Round             2         PTH        31.67mm (1.25inch)
-T2      0.4mm (16mil)                                             Round             166       PTH        689.80mm (27.16inch)
+T2      0.4mm (16mil)                                             Round             166       PTH        683.38mm (26.90inch)
 T3      0.5mm (20mil)                                             Round             61        PTH        176.33mm (6.94inch)
 T4      0.762mm (30mil)                                           Round             12        PTH        289.52mm (11.40inch)
-T5      0.9mm (35mil)                                             Round             248       PTH        977.83mm (38.50inch)
+T5      0.9mm (35mil)                                             Round             248       PTH        978.02mm (38.50inch)
 T6      1mm (39mil)                                               Round             34        PTH        211.36mm (8.32inch)
 T7      1.2mm (47mil)                                             Round             6         PTH        25.02mm (0.98inch)
 T8      1.65mm (65mil)                                            Round             8         PTH        29.57mm (1.16inch)
-T9      3.2mm (126mil)                                            Round             2         PTH        144.37mm (5.68inch)
-T10     3.5mm (138mil)                                            Round             2         PTH        132.18mm (5.20inch)
-T11     0.9mm (35mil)                                             Round             2         NPTH       4.40mm (0.17inch)
+T9      3.2mm (126mil)                                            Round             4         PTH        294.46mm (11.59inch)
+T10     0.9mm (35mil)                                             Round             2         NPTH       4.40mm (0.17inch)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              543
 
