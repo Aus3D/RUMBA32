@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: RUMBA_plus.GBR   9/21/2016  9:36:01 PM
+Gerber File Extension Report For: RUMBA_plus.GBR   9/22/2016  8:58:08 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,5 +14,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GKO                Keep-Out Layer                          
+.GM2                Mechanical 2                            
 ------------------------------------------------------------------------------------------

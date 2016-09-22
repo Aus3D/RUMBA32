@@ -79,14 +79,14 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D25
+    D33
     D43
     D45
     D46
     D47
     D48
     D49
-    D50
+    D51
     D54
     D55
     D56
@@ -112,9 +112,9 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D46
+    D43
+    D45
     D48
-    D49
     D69
     D70
     D71
@@ -261,7 +261,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D111
+    D119
     D129
     D130
     D131
@@ -297,19 +297,19 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D48
-    D72
+    D45
+    D74
     D140
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : RUMBA_plus.GKO
+Generating : Mechanical 2
+      File : RUMBA_plus.GM2
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Mechanical 2
 
 
 Used DCodes :
-    D48
+    D45
 *************************************************************
 

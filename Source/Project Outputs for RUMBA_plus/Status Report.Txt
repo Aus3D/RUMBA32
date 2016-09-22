@@ -1,10 +1,21 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [RUMBA_plus.PrjPCB]
-   Generated File[Pick Place for RUMBA_plus.csv]
+   Generated File[RUMBA_plus.GTL]
+   Generated File[RUMBA_plus.GBL]
+   Generated File[RUMBA_plus.GTO]
+   Generated File[RUMBA_plus.GTP]
+   Generated File[RUMBA_plus.GTS]
+   Generated File[RUMBA_plus.GBS]
+   Generated File[RUMBA_plus.GBP]
+   Generated File[RUMBA_plus.GBO]
+   Generated File[RUMBA_plus.GM2]
+   Generated File[RUMBA_plus.RUL]
+   Generated File[RUMBA_plus.EXTREP]
+   Generated File[RUMBA_plus.REP]
 
 
-Files Generated   : 1
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 9:36:41 PM On 9/21/2016
+Finished Output Generation At 8:58:12 PM On 9/22/2016
