@@ -162,70 +162,62 @@ DocumentPath=Project Outputs for RUMBA_plus\Design Rule Check - RUMBA_plus.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for RUMBA_plus\Pick Place for RUMBA_plus.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.TXT
 DItemRevisionGUID=
 
@@ -236,7 +228,6 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_SmartPDF]
@@ -561,6 +552,12 @@ OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
 PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType20=PCBDrawing
+OutputName20=Draftsman
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
