@@ -7,7 +7,7 @@ The RUMBA+ update is designed to address several shortcomings with the original 
 In keeping with the original RUMBA design, RUMBA+ is fully open source.
 ## Image
 ![RUMBA+ PCB Preview](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/BoardPreviewTop.png "RUMBA+ PCB Preview")
-
+![RUMBA+ Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Images/pinOut.png "RUMBA+ Pinout")
 ## Changes From Original RUMBA
 ### Input Voltage Compatibility
 While the original RUMBA board claims compatibility with power supplies ranging from 12-35V, it uses PTC resettable fuses that are rated for 16V maximum. This means that the board requires modification to be used at voltages above this - though some manufacturers or suppliers may have modified the fuses or shipped boards without them to suit higher voltages.
