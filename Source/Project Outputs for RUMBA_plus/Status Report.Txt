@@ -1,10 +1,10 @@
-Output: Test Point Report
-Type  : Test Points
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [RUMBA_plus.PrjPCB]
-   Generated File[Assembly Testpoint Report for RUMBA_plus.csv]
+   Generated File[Pick Place for RUMBA_plus.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:46:43 PM On 5/12/2017
+Finished Output Generation At 5:48:02 PM On 4/01/2018
