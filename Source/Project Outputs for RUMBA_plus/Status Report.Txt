@@ -7,4 +7,4 @@ From  : Variant [[No Variations]] of Project [RUMBA_plus.PrjPCB]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 5:48:02 PM On 4/01/2018
+Finished Output Generation At 2:30:57 PM On 24/05/2018
