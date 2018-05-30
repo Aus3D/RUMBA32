@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\Git\RUMBA-Plus\Source\RUMBA_plus.PcbDoc
-Date     : 4/01/2018
-Time     : 5:44:40 PM
+PCB File : G:\Git\RUMBA-Plus\Source\RUMBA_plus.PcbDoc
+Date     : 24/05/2018
+Time     : 9:35:51 PM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -22,7 +22,16 @@ Processing Rule : Width Constraint (Min=0.2mm) (Max=3mm) (Preferred=0.2mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Via (MinHoleWidth=0.35mm) (MaxHoleWidth=1mm) (PreferredHoleWidth=0.4mm) (MinWidth=0.7mm) (MaxWidth=1.27mm) (PreferedWidth=0.8mm) (All)
-Rule Violations :0
+   Violation between Routing Via Style: Via (33.348mm,14.924mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (33.348mm,13.824mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (33.348mm,12.724mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (32.248mm,14.924mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (32.248mm,13.824mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (32.248mm,12.724mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (31.148mm,14.924mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (31.148mm,13.824mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (31.148mm,12.724mm) from Top Layer to Bottom Layer Actual Size : 0.5mm Actual Hole Size : 0.2mm
+Rule Violations :9
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
@@ -46,5 +55,5 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 3
-Time Elapsed        : 00:00:05
+Violations Detected : 12
+Time Elapsed        : 00:00:06
