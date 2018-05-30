@@ -4,7 +4,10 @@ RUMBA+ is an updated version of the RUMBA 3D Printer control board, originally d
 
 The RUMBA+ update is designed to address several shortcomings with the original design, and improve on the otherwise solid framework it presents. More information on RUMBA is available on the RepRapWiki page [here](http://reprap.org/wiki/RUMBA).
 
+RUMBA+ boards are for sale in the [Aus3D shop](http://aus3d.com.au/rumba-plus). Additional documentation is available on the [Aus3D wiki](http://wiki.aus3d.com.au/RUMBA_Plus).
+
 In keeping with the original RUMBA design, RUMBA+ is fully open source.
+
 ## Image
 ![RUMBA+ PCB Preview](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/BoardPreviewTop.png "RUMBA+ PCB Preview")
 ![RUMBA+ Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Images/pinOut.png "RUMBA+ Pinout")
