@@ -9,7 +9,7 @@ RUMBA+ boards are for sale in the [Aus3D shop](http://aus3d.com.au/rumba-plus). 
 In keeping with the original RUMBA design, RUMBA+ is fully open source.
 
 ## Image
-![RUMBA+ PCB Preview](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/BoardPreviewTop.png "RUMBA+ PCB Preview")
+![RUMBA+ PCB Preview](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Images/boardPhoto.jpg "RUMBA+ PCB Preview")
 ![RUMBA+ Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Images/pinOut.png "RUMBA+ Pinout")
 ## Changes From Original RUMBA
 ### Input Voltage Compatibility
