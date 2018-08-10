@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ALABJOWR
 
 [Document3]
 DocumentPath=RUMBA32.PCBDwf
@@ -95,7 +95,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YWUCEPJK
 
 [Document5]
 DocumentPath=RUMBA32_2.PCBDwf
@@ -297,7 +297,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-2130 series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -513,7 +513,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=DYMO LabelWriter 4XL
+TargetPrinter=Brother HL-2130 series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=SimpleBOM
 OutputName1=Simple BOM
@@ -535,16 +535,18 @@ Configuration3_Name1=ColumnNameFormat
 Configuration3_Item1=CaptionAsName
 Configuration3_Name2=Filter
 Configuration3_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration3_Name3=General
-Configuration3_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1520|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration3_Name4=GroupOrder
-Configuration3_Item4=Value=True|Comment=True|Footprint=True
-Configuration3_Name5=OutputConfigurationParameter1
-Configuration3_Item5=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
-Configuration3_Name6=SortOrder
-Configuration3_Item6=Designator=Up
-Configuration3_Name7=VisibleOrder
-Configuration3_Item7=Designator=221|Description=231|Comment=141|Value=86|Quantity=121|Note=86|Manufacturer 1=158|Manufacturer Part Number 1=139|Supplier 1=165|Supplier Part Number 1=26
+Configuration3_Name3=ForceUpdateSettings
+Configuration3_Item3=False
+Configuration3_Name4=General
+Configuration3_Item4=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1799|FormHeight=1155|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
+Configuration3_Name5=GroupOrder
+Configuration3_Item5=Supplier Part Number 1=True|Value=True|Comment=True
+Configuration3_Name6=OutputConfigurationParameter1
+Configuration3_Item6=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
+Configuration3_Name7=SortOrder
+Configuration3_Item7=Description=Up
+Configuration3_Name8=VisibleOrder
+Configuration3_Item8=Designator=419|Description=220|Comment=192|Value=125|Quantity=62|Note=113|Manufacturer 1=94|Manufacturer Part Number 1=123|Supplier 1=78|Supplier Part Number 1=95
 OutputType4=Script
 OutputName4=Script Output
 OutputDocumentPath4=
