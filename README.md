@@ -4,7 +4,7 @@ RUMBA32 is a 32-bit version of the RUMBA 3D Printer control board. RUMBA32 is de
 
 RUMBA32 combines the improved RUMBA+ design with a powerful 32-bit STM32F446 microcontroller.
 
-In keeping with the original RUMBA design, RUMBA32 is fully open source. RUMBA32 boards will be available for sale in the [Aus3D shop](http://aus3d.com.au/rumba32). 
+In keeping with the original RUMBA design, RUMBA32 is fully open source. RUMBA32 boards will be available for sale in the [Aus3D shop](https://aus3d.com.au/rumba32). 
 
 Instructions for uploading firmware can be found on the [Getting RUMBA32 Up and Running](https://github.com/Aus3D/RUMBA32/wiki/Getting-RUMBA32-Up-&-Running) wiki page.
 
