@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ALABJOWR
+DocumentUniqueId=PDKHPRVN
 
 [Document3]
 DocumentPath=RUMBA32.SchDoc
@@ -104,10 +104,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RUMBA32\Design Rule Check - RUMBA32.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
