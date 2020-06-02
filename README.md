@@ -11,7 +11,7 @@ Instructions for uploading firmware can be found on the [Getting RUMBA32 Up and 
 ## Firmware Support
 RUMBA32 is currently supported by the following firmware:
 - [MK4duo (support in v4.4.0)](https://github.com/MKFirmware/MK4duo)
-- [Marlin (support in bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin)
+- [Marlin 2.0 (support in bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin)
 - [Repetier-Firmware V2 (support in dev2)](https://github.com/repetier/Repetier-Firmware/tree/dev2)
 
 ## Image
