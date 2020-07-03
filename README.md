@@ -14,15 +14,16 @@ RUMBA32 is currently supported by the following firmware:
 - [Marlin 2.0 (support in bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin)
 - [Repetier-Firmware V2 (support in dev2)](https://github.com/repetier/Repetier-Firmware/tree/dev2)
 
-## Overview
+## Images
+### Overview
 ![RUMBA32 Graphic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_Graphic.png "RUMBA32 Graphic")
-
-## Photo
+### Photo
 ![RUMBA32 Photo](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/boardPhoto.jpg "RUMBA32 Photo")
-
-## Design Images
+### Schematic
 ![RUMBA32 Schematic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Schematic.png "RUMBA32 Schematic")
+### Pinout
 ![RUMBA32 Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_PinoutDrawing.png "RUMBA32 Pinout")
+### Dimensions
 ![RUMBA32 Dimensions](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_DimensionDrawing.png "RUMBA32 Dimensions")
 
 ## License
