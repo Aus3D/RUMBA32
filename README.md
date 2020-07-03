@@ -14,11 +14,13 @@ RUMBA32 is currently supported by the following firmware:
 - [Marlin (support in bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin)
 
 ## Image
-![RUMBA+ PCB Preview](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/boardPhoto.jpg "RUMBA+ PCB Preview")
-![RUMBA+ Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/pinOut.png "RUMBA+ Pinout")
+![RUMBA32 Photo](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/boardPhoto.jpg "RUMBA32 Photo")
+![RUMBA32 Graphic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_Graphic.png "RUMBA32 Graphic")
+![RUMBA32 Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_PinoutDrawing.png "RUMBA32 Pinout")
+![RUMBA32 Dimensions](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_PinoutDrawing.png "RUMBA32 Dimensions")
 
 ## Design Images
-![RUMBA+ Schematic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Schematic.png "RUMBA32 Schematic")
+![RUMBA32 Schematic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Schematic.png "RUMBA32 Schematic")
 
 ## License
-RUMBA+ is fully open source, and may be freely modified or changed by anyone, provided they maintain the license it is released under. The design is free to use for any purpose, including commercial uses. RUMBA+ maintains the GPLv2 license of the original RUMBA board. For more information on this license, please see the included license file.
+RUMBA32 is fully open source, and may be freely modified or changed by anyone, provided they maintain the license it is released under. The design is free to use for any purpose, including commercial uses. RUMBA+ maintains the GPLv2 license of the original RUMBA board. For more information on this license, please see the included license file.
