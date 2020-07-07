@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -115,7 +115,7 @@ IncludeSubFolders=1
 
 [Parameter1]
 Name=ProjectOutputVersion
-Value=v1_1A
+Value=v1_1B
 
 [Parameter2]
 Name=ProjectName
