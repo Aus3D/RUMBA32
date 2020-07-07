@@ -9,7 +9,7 @@ RUMBA32 combines the improved RUMBA+ design with a powerful 32-bit STM32F446 mic
 
 In keeping with the original RUMBA design, RUMBA32 is fully open source. RUMBA32 boards are available for sale in the [Aus3D shop](https://aus3d.com.au/rumba32). 
 
-Instructions for uploading firmware can be found on the [Getting RUMBA32 Up and Running](https://github.com/Aus3D/RUMBA32/wiki/Getting-RUMBA32-Up-&-Running) wiki page.
+Instructions for configuring and uploading Marlin using PlatformIO can be found on the [Marlin - Build and Upload (PlatformIO)](https://github.com/Aus3D/RUMBA32/wiki/Marlin---Build-and-Upload-(PlatformIO)) wiki page.
 
 ## Firmware Support
 RUMBA32 is currently supported by the following firmware:
