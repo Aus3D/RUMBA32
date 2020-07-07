@@ -19,15 +19,15 @@ RUMBA32 is currently supported by the following firmware:
 
 ## Images
 ### Overview
-![RUMBA32 Graphic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_Graphic.png "RUMBA32 Graphic")
+![RUMBA32 Graphic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Resources/Images/RUMBA32_v1_1A_Graphic.png "RUMBA32 Graphic")
 ### Photo
-![RUMBA32 Photo](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/boardPhoto.jpg "RUMBA32 Photo")
+![RUMBA32 Photo](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Resources/Images/boardPhoto.jpg "RUMBA32 Photo")
 ### Schematic
-![RUMBA32 Schematic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Schematic.png "RUMBA32 Schematic")
+![RUMBA32 Schematic](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Resources/Images/RUMBA32_v1_1B_Schematic.png "RUMBA32 Schematic")
 ### Pinout
-![RUMBA32 Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_PinoutDrawing.png "RUMBA32 Pinout")
+![RUMBA32 Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Resources/Images/RUMBA32_v1_1B_PinoutDrawing.png "RUMBA32 Pinout")
 ### Dimensions
-![RUMBA32 Dimensions](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Images/RUMBA32_v1_1A_DimensionDrawing.png "RUMBA32 Dimensions")
+![RUMBA32 Dimensions](https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Resources/Images/RUMBA32_v1_1B_DimensionDrawing.png "RUMBA32 Dimensions")
 
 ## License
 RUMBA32 is fully open source, and may be freely modified or changed by anyone, provided they maintain the license it is released under. The design is free to use for any purpose, including commercial uses. RUMBA32 maintains the GPLv2 license of the original RUMBA board. For more information on this license, please see the included license file.
