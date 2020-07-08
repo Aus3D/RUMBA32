@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Outputs.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=New Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Brother MFC-J6935DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -64,7 +64,7 @@ OutputName3=Schematic
 OutputCategory3=Documentation
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=6
 OutputEnabled3_OutputMedium3=0
@@ -78,7 +78,7 @@ OutputName4=AssyDrawing
 OutputCategory4=Documentation
 OutputDocumentPath4=RUMBA32_AssyDrawing.PCBDwf
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=5
 OutputEnabled4_OutputMedium3=0
@@ -90,7 +90,7 @@ OutputName5=BOM
 OutputCategory5=Report
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -99,24 +99,24 @@ OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration5_Name1=ColumnNameFormat
 Configuration5_Item1=CaptionAsName
-Configuration5_Name2=Filter
-Configuration5_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration5_Name3=General
-Configuration5_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1814|FormHeight=1014|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
-Configuration5_Name4=GroupOrder
-Configuration5_Item4=Description=True|Supplier Part Number 1=True|Value=True
-Configuration5_Name5=OutputConfigurationParameter1
-Configuration5_Item5=tToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes
-Configuration5_Name6=SortOrder
-Configuration5_Item6=Description=Up
-Configuration5_Name7=VisibleOrder
-Configuration5_Item7=Designator=246|Description=278|Comment=183|Value=82|Quantity=58|Manufacturer 1=105|Manufacturer Part Number 1=104|Note=77|Supplier 1=71|Supplier Part Number 1=207
+Configuration5_Name2=General
+Configuration5_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1814|FormHeight=1014|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration5_Name3=GroupOrder
+Configuration5_Item3=Description=True|Supplier Part Number 1=True
+Configuration5_Name4=OutputConfigurationParameter1
+Configuration5_Item4=tToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes
+Configuration5_Name5=SortOrder
+Configuration5_Item5=Description=Up
+Configuration5_Name6=VisibleOrder
+Configuration5_Item6=Designator=500|Description=262|Quantity=58|Note=272|Manufacturer 1=184|Manufacturer Part Number 1=158|Supplier 1=64|Supplier Part Number 1=184
+Configuration5_Name7=VisibleOrder_Flat
+Configuration5_Item7=Designator=500|Description=262|Quantity=58|Note=272|Manufacturer 1=184|Manufacturer Part Number 1=158|Supplier 1=64|Supplier Part Number 1=184
 OutputType6=Pick Place
 OutputName6=PickPlace
 OutputCategory6=Assembly
 OutputDocumentPath6=RUMBA32.PcbDoc
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
@@ -129,7 +129,7 @@ OutputName7=RenderTop
 OutputCategory7=Documentation
 OutputDocumentPath7=RUMBA32.PcbDoc
 OutputVariantName7=
-OutputEnabled7=1
+OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=4
 OutputEnabled7_OutputMedium3=0
@@ -143,7 +143,7 @@ OutputName8=RenderBottom
 OutputCategory8=Documentation
 OutputDocumentPath8=RUMBA32.PcbDoc
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=3
 OutputEnabled8_OutputMedium3=0
@@ -157,7 +157,7 @@ OutputName9=PinoutDrawing
 OutputCategory9=Documentation
 OutputDocumentPath9=RUMBA32.PcbDoc
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=2
 OutputEnabled9_OutputMedium3=0
@@ -190,7 +190,7 @@ OutputName10=DimensionDrawing
 OutputCategory10=Documentation
 OutputDocumentPath10=RUMBA32.PcbDoc
 OutputVariantName10=
-OutputEnabled10=1
+OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=1
 OutputEnabled10_OutputMedium3=0
@@ -254,7 +254,7 @@ OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
-OutputFilePath4=G:\Git\RUMBA32\Source\Outputs\
+OutputFilePath4=H:\Projects\PCB Design\RUMBA32\Source\Outputs\
 ReleaseManaged4=0
 OutputBasePath4=Outputs\
 OutputPathMedia4=
@@ -281,7 +281,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=G:\Git\RUMBA32\Source\Outputs\
+RelativeOutputPath4=H:\Projects\PCB Design\RUMBA32\Source\Outputs\
 OpenOutputs4=0
 AddToProject4=1
 TimestampFolder4=0
